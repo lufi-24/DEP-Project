@@ -1,8 +1,7 @@
 # RideWithUs - Carpooling Application
 
-## Deployed Software (Only for BETA testing by other teams)
-http://172.27.16.252/
-Accessible from iitrpr network
+## Deployed Software 
+http://ridewithus.ct.ws/
 
 ## Group Members
 
